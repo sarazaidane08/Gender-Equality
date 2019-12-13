@@ -1,0 +1,21 @@
+h1{
+    color:purple;
+}
+h2{
+    color:blue;
+}
+h3{
+    color:red;
+}
+
+img {
+  border: 1px solid;
+  border-radius: 7px;
+  padding: 5px;
+  width: 200px;
+}
+body {
+    background:violet;
+}
+
+    
